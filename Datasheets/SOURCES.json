@@ -1,0 +1,82 @@
+{
+  "retrieved": "2026-09-27",
+  "documents": [
+    {
+      "file": "Vishay_SS14_Schottky_Example_Variant.pdf",
+      "url": "https://www.vishay.com/docs/98678/ss14hm3_bia_ss14-m3ia.pdf",
+      "pages": 5,
+      "bytes": 111162,
+      "sha256": "52651b80f5930a6b8b28a5195acd71b62af7e2796745e6ae5fcff55f33ee5abc"
+    },
+    {
+      "file": "ESwitch_EG1218_Switch_Drawing.pdf",
+      "url": "https://configured-product-images.s3.amazonaws.com/2D/specs/EG1218.pdf",
+      "pages": 1,
+      "bytes": 35249,
+      "sha256": "708a4b4d860ebf095b5c1b25ff4126f4f09dd66bf7d945731fac7458fc4b2c8c"
+    },
+    {
+      "file": "TI_TPS542025_Buck_Regulator.pdf",
+      "url": "https://www.ti.com/lit/ds/symlink/tps542025.pdf",
+      "pages": 33,
+      "bytes": 1590196,
+      "sha256": "2051de4941267e11ab533b4e831dcace176bcbcf4bcac51f3eef7197b7201be7"
+    },
+    {
+      "file": "Diodes_AP2112_3V3_Regulator.pdf",
+      "url": "https://www.diodes.com/datasheet/download/AP2112.pdf",
+      "pages": 18,
+      "bytes": 755270,
+      "sha256": "ef8d376f2ec356e29172eb9e053819a0ebdcc576dba7fc9ab0505c568427920f"
+    },
+    {
+      "file": "Bourns_SRP5030HMCT_Inductor_Family.pdf",
+      "url": "https://www.bourns.com/docs/product-datasheets/SRP5030HMCT.pdf",
+      "pages": 5,
+      "bytes": 521105,
+      "sha256": "86be3e62977e905ec6ada33ddf9e80c13bf0fcf6ce848fe0894260a028f56865"
+    },
+    {
+      "file": "Nordic_nRF24L01Plus_Product_Specification.pdf",
+      "url": "https://www.mysensors.org/dl/57c1a2411730a6c715b6b1b0/design/nRF24L01P_PS_v1.0.pdf",
+      "pages": 78,
+      "bytes": 1134034,
+      "sha256": "4dc3ed775dc49cd365ec95c677d1d010a43c8539614eb4b312211096ca0ddf7e"
+    },
+    {
+      "file": "PJRC_Teensy40_Pinout_Front.pdf",
+      "url": "https://www.pjrc.com/teensy/card10a_rev2_web.pdf",
+      "pages": 1,
+      "bytes": 338926,
+      "sha256": "d82c571a658942bdac3c7468aca8a6ac21fe8a4466c67b303d46a1b96ec1e1e9"
+    },
+    {
+      "file": "PJRC_Teensy40_Pinout_Back.pdf",
+      "url": "https://www.pjrc.com/teensy/card10b_rev2_web.pdf",
+      "pages": 1,
+      "bytes": 394463,
+      "sha256": "d422f1ba2e4d569ce5080514bba6ad78b2f7d0faa986e62c72db0b9757f57c29"
+    },
+    {
+      "file": "Kingbright_APT2012LZGCK_LED.pdf",
+      "url": "https://www.kingbrightusa.com/images/catalog/spec/apt2012lzgck.pdf",
+      "pages": 4,
+      "bytes": 647632,
+      "sha256": "e0ef6d7073f40ce3a3db6a61ccb87fafd056bf00026942ada2fbe177b1fc49a8"
+    },
+    {
+      "file": "Solomon_SSD1306_IC_Datasheet.pdf",
+      "url": "https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf",
+      "pages": 65,
+      "bytes": 1876686,
+      "sha256": "d55f875357de96d8c0e92153a389acc57e8bab4db7a0687f2e0bd3362f0036f6"
+    },
+    {
+      "file": "JoyIT_KY023_Joystick_Example_Module_Manual.pdf",
+      "url": "https://www.joy-it.net/files/files/Produkte/COM-KY023JM/COM-KY023JM_Manual_2024-05-07.pdf",
+      "pages": 8,
+      "bytes": 1240279,
+      "sha256": "a3cf79690122b527189d40db0f0f229d4492df29366d546079dc3b87878af2f3"
+    }
+  ]
+}
