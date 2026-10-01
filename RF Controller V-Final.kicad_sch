@@ -3668,6 +3668,12 @@
 		(uuid "99bb5746-3c4d-4973-a85a-28da7d531a99")
 	)
 	(junction
+		(at 250.19 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ab2f490f-6555-4d3e-a754-154e485a95f5")
+	)
+	(junction
 		(at 132.08 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3738,6 +3744,16 @@
 			(type default)
 		)
 		(uuid "0260925e-cce4-4e68-9288-cda8b5a52960")
+	)
+	(wire
+		(pts
+			(xy 261.62 29.21) (xy 262.89 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04bdb129-387e-45d5-be3c-676e2351ab5b")
 	)
 	(polyline
 		(pts
@@ -3999,6 +4015,16 @@
 		)
 		(uuid "3bd311ab-cd44-4085-b4f1-135bb487e71f")
 	)
+	(wire
+		(pts
+			(xy 250.19 33.02) (xy 250.19 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d136dfc-3181-465a-8fa8-9fa2d02d2cdc")
+	)
 	(polyline
 		(pts
 			(xy 22.86 48.26) (xy 12.7 48.26)
@@ -4169,6 +4195,16 @@
 		)
 		(uuid "764048e3-3486-4f69-829f-67598b5794d5")
 	)
+	(wire
+		(pts
+			(xy 254 24.13) (xy 262.89 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "769aebc6-8525-446b-b0aa-d2fd4aad62be")
+	)
 	(polyline
 		(pts
 			(xy 12.7 48.26) (xy 12.7 53.34)
@@ -4268,6 +4304,16 @@
 			(type dash)
 		)
 		(uuid "8ce171bf-965f-45cf-9add-d69d9da0551a")
+	)
+	(wire
+		(pts
+			(xy 261.62 26.67) (xy 262.89 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ec5ce8e-4cba-453c-b97b-e3642da4a423")
 	)
 	(wire
 		(pts
@@ -4649,6 +4695,16 @@
 		)
 		(uuid "0e319aef-ff6b-4238-8699-684030eecb6a")
 	)
+	(label "SDA"
+		(at 261.62 29.21 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "18455313-8589-47f3-a3b8-a68c6b85e172")
+	)
 	(label "MOSI"
 		(at 213.36 74.93 0)
 		(effects
@@ -4658,6 +4714,16 @@
 			(justify left bottom)
 		)
 		(uuid "2246ebf1-f4b5-4780-b6a7-0e6dda8ad0f8")
+	)
+	(label "3.3V_OUT"
+		(at 250.19 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "24d399e3-754c-4d64-b227-2214e118a9a2")
 	)
 	(label "3.3V_OUT"
 		(at 88.9 90.17 0)
@@ -4709,6 +4775,16 @@
 		)
 		(uuid "3c00c1a7-4eca-4c1a-af89-8a457c92b7c9")
 	)
+	(label "SCL"
+		(at 242.57 35.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3ee42754-0078-4559-9194-5831e980fa17")
+	)
 	(label "9V_IN"
 		(at 33.02 90.17 180)
 		(effects
@@ -4738,6 +4814,16 @@
 			(justify right bottom)
 		)
 		(uuid "47c6f9c4-e59a-41a0-ae1f-4f2d89b2f2c6")
+	)
+	(label "3.3V_OUT"
+		(at 254 24.13 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "496c484b-8b9c-4605-a987-178c36a8199a")
 	)
 	(label "MOSI"
 		(at 35.56 148.59 180)
@@ -4809,6 +4895,16 @@
 		)
 		(uuid "902b8bf9-2c1a-4e0b-933c-eea3a31c9c6d")
 	)
+	(label "3.3V_OUT"
+		(at 228.6 29.21 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9b357e30-1c07-437c-ab32-56572fcd3880")
+	)
 	(label "CE"
 		(at 35.56 143.51 180)
 		(effects
@@ -4818,6 +4914,16 @@
 			(justify right bottom)
 		)
 		(uuid "a9a881b7-00da-4650-8a66-d966e73d7c48")
+	)
+	(label "SDA"
+		(at 257.81 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "af503a3f-2b46-46dc-9dab-99f193c8adbd")
 	)
 	(label "5V_IN"
 		(at 59.69 90.17 180)
@@ -4998,6 +5104,16 @@
 			(justify right bottom)
 		)
 		(uuid "ed848071-1d01-40f2-9b8d-94773b6f9053")
+	)
+	(label "SCL"
+		(at 261.62 26.67 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "edcbd421-7d2c-493a-88f0-b68555ac6a0e")
 	)
 	(symbol
 		(lib_id "JOYY:_1")
@@ -6651,7 +6767,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 236.22 40.64 90)
+		(at 246.38 35.56 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6662,7 +6778,7 @@
 		(fields_autoplaced yes)
 		(uuid "6e3093f0-34ed-4e80-bc88-c8147366e267")
 		(property "Reference" "R1"
-			(at 236.22 34.29 90)
+			(at 246.38 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6671,8 +6787,8 @@
 				)
 			)
 		)
-		(property "Value" "TBD"
-			(at 236.22 36.83 90)
+		(property "Value" "4.7k"
+			(at 246.38 39.37 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6682,7 +6798,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 236.22 42.418 90)
+			(at 246.38 33.782 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6693,7 +6809,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 40.64 0)
+			(at 246.38 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6704,7 +6820,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 236.22 40.64 0)
+			(at 246.38 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7591,7 +7707,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 226.06 36.83 90)
+		(at 232.41 29.21 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7601,7 +7717,7 @@
 		(dnp no)
 		(uuid "9d6046cd-1cdf-488d-a950-4c29fa4269d1")
 		(property "Reference" "C1"
-			(at 226.06 30.226 90)
+			(at 232.41 22.606 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7610,8 +7726,8 @@
 				)
 			)
 		)
-		(property "Value" "TBD"
-			(at 226.06 32.512 90)
+		(property "Value" "0.1u"
+			(at 232.41 24.892 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7621,7 +7737,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 229.87 35.8648 0)
+			(at 236.22 28.2448 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7632,7 +7748,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 36.83 0)
+			(at 232.41 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7643,7 +7759,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 226.06 36.83 0)
+			(at 232.41 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7812,6 +7928,85 @@
 			(project "RF Controller V-Final"
 				(path "/20b51a64-697d-4081-9410-2d5c496e59fa"
 					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 236.22 29.21 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a6fbb542-ff64-4777-93ea-dbccbb5d5627")
+		(property "Reference" "#PWR024"
+			(at 242.57 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 240.03 29.2099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 236.22 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 236.22 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 236.22 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c09dccc1-9ebf-4110-aab9-31d81aa2bddd")
+		)
+		(instances
+			(project "RF Controller V-Final"
+				(path "/20b51a64-697d-4081-9410-2d5c496e59fa"
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -9243,7 +9438,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 236.22 31.75 90)
+		(at 254 35.56 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9254,7 +9449,7 @@
 		(fields_autoplaced yes)
 		(uuid "e4deec62-1300-4eb6-b95a-3c938c7bd4ef")
 		(property "Reference" "R2"
-			(at 236.22 25.4 90)
+			(at 254 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9263,8 +9458,8 @@
 				)
 			)
 		)
-		(property "Value" "TBD"
-			(at 236.22 27.94 90)
+		(property "Value" "4.7k"
+			(at 254 39.37 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9274,7 +9469,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 236.22 33.528 90)
+			(at 254 33.782 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9285,7 +9480,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 31.75 0)
+			(at 254 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9296,7 +9491,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 236.22 31.75 0)
+			(at 254 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9395,6 +9590,85 @@
 			(project "RF Controller V-Final"
 				(path "/20b51a64-697d-4081-9410-2d5c496e59fa"
 					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 262.89 21.59 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f2765643-e0de-445f-927d-886734941961")
+		(property "Reference" "#PWR023"
+			(at 256.54 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 259.08 21.5899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 262.89 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 262.89 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 262.89 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9b65531b-af83-4678-b9e7-c8f1abe3d76b")
+		)
+		(instances
+			(project "RF Controller V-Final"
+				(path "/20b51a64-697d-4081-9410-2d5c496e59fa"
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
