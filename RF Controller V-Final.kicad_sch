@@ -4105,6 +4105,16 @@
 		)
 		(uuid "665f8d4f-f4d2-47ab-8ca5-a1f58af0063b")
 	)
+	(wire
+		(pts
+			(xy 35.56 179.07) (xy 36.83 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6705347f-69a2-4d06-a2b7-51c26dc9b408")
+	)
 	(polyline
 		(pts
 			(xy 12.7 53.34) (xy 12.7 77.47)
@@ -4517,6 +4527,16 @@
 	)
 	(wire
 		(pts
+			(xy 35.56 181.61) (xy 36.83 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8b3d0c5-c653-4bea-83e6-17c1f0120792")
+	)
+	(wire
+		(pts
 			(xy 35.56 166.37) (xy 36.83 166.37)
 		)
 		(stroke
@@ -4755,6 +4775,16 @@
 		)
 		(uuid "2e8af7c3-784c-45c3-921b-f8bc3da81bdb")
 	)
+	(label "SDA"
+		(at 35.56 179.07 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3aa531c3-adc9-40e9-9bbb-868100ba7589")
+	)
 	(label "3.3V_OUT"
 		(at 238.76 58.42 180)
 		(effects
@@ -4834,6 +4864,16 @@
 			(justify right bottom)
 		)
 		(uuid "4a0a9d60-4ddf-4223-8ac9-5ee86a19a4db")
+	)
+	(label "SCL"
+		(at 35.56 181.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4ad9e392-9239-4eb9-b266-81208d7178e1")
 	)
 	(label "3.3V_OUT"
 		(at 196.85 57.15 180)
