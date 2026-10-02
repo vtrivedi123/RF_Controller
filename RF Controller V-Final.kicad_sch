@@ -4825,6 +4825,16 @@
 		)
 		(uuid "43a9d43b-2f28-4e6d-8cc8-a65809b40f7d")
 	)
+	(label "ADC6"
+		(at 36.83 184.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "46911e6a-8a6b-458d-baa8-ff3eef484a06")
+	)
 	(label "5V_IN"
 		(at 68.58 90.17 180)
 		(effects
@@ -4874,6 +4884,16 @@
 			(justify right bottom)
 		)
 		(uuid "4ad9e392-9239-4eb9-b266-81208d7178e1")
+	)
+	(label "ADC6"
+		(at 114.3 58.42 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4d41ef02-c7ff-4e93-8907-6d72b3e7091d")
 	)
 	(label "3.3V_OUT"
 		(at 196.85 57.15 180)
@@ -4995,6 +5015,16 @@
 		)
 		(uuid "b8bc069d-c27f-4d5f-b3e0-f5e1f9f6b4fb")
 	)
+	(label "ADC7"
+		(at 36.83 186.69 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "be88d0f8-1fb3-4c85-a907-04aea34513dd")
+	)
 	(label "MISO"
 		(at 35.56 151.13 180)
 		(effects
@@ -5095,7 +5125,7 @@
 		)
 		(uuid "e1464db8-de6a-4a23-9ea2-99935ab38061")
 	)
-	(label "ADC_IN"
+	(label "ADC7"
 		(at 133.35 88.9 0)
 		(effects
 			(font
@@ -6957,6 +6987,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 132.08 58.42 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "72e5c930-b6f6-4dad-b3bd-4631fc70d5cd")
+		(property "Reference" "#PWR025"
+			(at 138.43 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 135.89 58.4199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 132.08 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 132.08 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ef9a527c-aadb-457b-9209-a13a880e66b0")
+		)
+		(instances
+			(project "RF Controller V-Final"
+				(path "/20b51a64-697d-4081-9410-2d5c496e59fa"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Pads:_1")
 		(at 24.13 30.48 0)
 		(unit 1)
@@ -7686,7 +7795,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TBD"
+		(property "Value" "330"
 			(at 119.634 56.134 90)
 			(show_name no)
 			(do_not_autoplace no)
