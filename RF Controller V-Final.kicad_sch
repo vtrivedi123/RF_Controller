@@ -3926,10 +3926,6 @@
 		(uuid "76371c58-d175-4d75-9889-8ec91b539831")
 	)
 	(no_connect
-		(at 36.83 156.21)
-		(uuid "772175ba-1389-44d7-be94-c4aff6be75a9")
-	)
-	(no_connect
 		(at 92.71 151.13)
 		(uuid "7b01dcc4-73be-49bd-92ce-18427d1a22f4")
 	)
@@ -4064,6 +4060,16 @@
 			(type dash)
 		)
 		(uuid "131a69a6-415e-4a6f-bb7d-1945276586de")
+	)
+	(wire
+		(pts
+			(xy 35.56 156.21) (xy 36.83 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13c2f93a-b361-4564-b35f-804109de1da8")
 	)
 	(wire
 		(pts
@@ -5015,16 +5021,6 @@
 		)
 		(uuid "3aa531c3-adc9-40e9-9bbb-868100ba7589")
 	)
-	(label "3.3V_OUT"
-		(at 238.76 58.42 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3ad4c8bf-bbe3-45d2-b999-0e4d87f4b6b0")
-	)
 	(label "9V_IN"
 		(at 22.86 63.5 180)
 		(effects
@@ -5165,6 +5161,16 @@
 		)
 		(uuid "5e3ed8a0-96db-4c14-ae18-7f65b1f2d249")
 	)
+	(label "3v3"
+		(at 237.49 92.71 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5e443331-411b-4b7e-8a44-6d627953deda")
+	)
 	(label "ADC1"
 		(at 36.83 171.45 180)
 		(effects
@@ -5206,16 +5212,6 @@
 		(uuid "7738e6ee-2f12-4a5f-a278-85d132636d99")
 	)
 	(label "3.3V_OUT"
-		(at 237.49 92.71 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7fef7694-0557-4ced-80b7-e3c918ea1445")
-	)
-	(label "3.3V_OUT"
 		(at 180.34 63.5 180)
 		(effects
 			(font
@@ -5234,6 +5230,16 @@
 			(justify left bottom)
 		)
 		(uuid "8cda9d21-a802-4f94-8557-cad99c0a4e65")
+	)
+	(label "3v3"
+		(at 35.56 156.21 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8d419c93-4348-4f6e-a1ae-dcc1064e094f")
 	)
 	(label "5V_IN"
 		(at 93.98 176.53 0)
@@ -5474,6 +5480,16 @@
 			(justify left bottom)
 		)
 		(uuid "e38810f8-3ec0-464e-8d04-5df832d89c07")
+	)
+	(label "3v3"
+		(at 238.76 58.42 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e93bbed8-616d-4053-bf56-dad244c5c108")
 	)
 	(label "SW_OUT"
 		(at 46.99 20.32 180)
