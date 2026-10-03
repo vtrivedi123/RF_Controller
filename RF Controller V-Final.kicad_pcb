@@ -7472,7 +7472,7 @@
 	(footprint "RF_MountingHoles:holeborderart"
 		(layer "F.Cu")
 		(uuid "bc3f68e0-aebc-4bbd-a109-8097e5c83826")
-		(at 86.5 71.3)
+		(at 86.5 71.5)
 		(property "Reference" ""
 			(at 0 0 0)
 			(layer "F.SilkS")
