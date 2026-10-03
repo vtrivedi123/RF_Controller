@@ -709,7 +709,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "22u"
 			(at 0 2.3 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -845,7 +845,7 @@
 				)
 			)
 		)
-		(property "Value" "20k"
+		(property "Value" "22k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4428,7 +4428,7 @@
 				)
 			)
 		)
-		(property "Value" "71.5k"
+		(property "Value" "47k"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(hide yes)
