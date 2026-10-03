@@ -3926,6 +3926,10 @@
 		(uuid "76371c58-d175-4d75-9889-8ec91b539831")
 	)
 	(no_connect
+		(at 36.83 156.21)
+		(uuid "772175ba-1389-44d7-be94-c4aff6be75a9")
+	)
+	(no_connect
 		(at 92.71 151.13)
 		(uuid "7b01dcc4-73be-49bd-92ce-18427d1a22f4")
 	)
@@ -4811,16 +4815,6 @@
 		)
 		(uuid "e7b9f68c-6d0c-4e57-9be5-686035430406")
 	)
-	(wire
-		(pts
-			(xy 35.56 156.21) (xy 36.83 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e94b8d4a-6c2e-412e-8503-6a1713452a71")
-	)
 	(polyline
 		(pts
 			(xy 163.83 72.39) (xy 163.83 105.41)
@@ -5010,16 +5004,6 @@
 			(justify right bottom)
 		)
 		(uuid "2857f5c3-d24a-44ce-b1ab-720f7c12ae76")
-	)
-	(label "3.3V_OUT"
-		(at 35.56 156.21 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2e8af7c3-784c-45c3-921b-f8bc3da81bdb")
 	)
 	(label "SDA"
 		(at 35.56 179.07 180)
