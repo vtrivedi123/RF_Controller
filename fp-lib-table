@@ -12,5 +12,5 @@
 	(lib (name "LED_SMD") (type "KiCad") (uri "${KIPRJMOD}/libraries/KiCad_Standard/LED_SMD.pretty") (options "") (descr "Bundled KiCad starter footprint subset"))
 	(lib (name "Package_TO_SOT_SMD") (type "KiCad") (uri "${KIPRJMOD}/libraries/KiCad_Standard/Package_TO_SOT_SMD.pretty") (options "") (descr "Bundled KiCad starter footprint subset"))
 	(lib (name "Resistor_SMD") (type "KiCad") (uri "${KIPRJMOD}/libraries/KiCad_Standard/Resistor_SMD.pretty") (options "") (descr "Bundled KiCad starter footprint subset"))
-	(lib (name "865080543009") (type "KiCad") (uri "${KIPRJMOD}/libraries/865080543009") (options "") (descr ""))
+	(lib (name "Capacitor_SMD_Wurth") (type "KiCad") (uri "${KIPRJMOD}/libraries/Capacitor_SMD_Wurth.pretty") (options "") (descr ""))
 )
