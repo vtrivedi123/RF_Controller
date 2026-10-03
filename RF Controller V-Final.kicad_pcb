@@ -4416,7 +4416,7 @@
 		(descr "Simple footprint for HiLetgo 0.96 inch SSD1306 I2C OLED 27x27mm top-header module. Header only plus module outline and reference mounting-hole circles.")
 		(tags "OLED SSD1306 I2C 128x64 0.96 HiLetgo")
 		(property "Reference" "OLED"
-			(at 3.81 -3.8 0)
+			(at 3.81 26.7 0)
 			(layer "F.SilkS")
 			(uuid "26893fe8-467a-463a-9bd9-5a3846973aef")
 			(effects
