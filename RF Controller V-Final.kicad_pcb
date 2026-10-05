@@ -9281,6 +9281,126 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "VRx"
+		(at 137.5 118.5 0)
+		(layer "F.SilkS")
+		(uuid "fbc0428b-fcfd-4638-8187-f442935a7d4e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 137.5 123.5 0)
+		(layer "F.SilkS")
+		(uuid "e3a9a8bd-afa1-484a-ae65-7c98c0ae8ae9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "VRy"
+		(at 138 116 0)
+		(layer "F.SilkS")
+		(uuid "9720ed84-bfb3-4b1c-bf9b-12699033a032")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SW"
+		(at 138.5 113.5 0)
+		(layer "F.SilkS")
+		(uuid "889565fd-88b9-4120-894c-7d745881207d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "5V"
+		(at 138.5 121 0)
+		(layer "F.SilkS")
+		(uuid "0135c728-d3db-47d7-b3ff-1af7e2ca73bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 155.5 113.5 0)
+		(layer "F.SilkS")
+		(uuid "562acab8-fe58-4606-8c1b-212cad2b8482")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "5V"
+		(at 155.5 116 0)
+		(layer "F.SilkS")
+		(uuid "031c244b-446b-43d5-8168-00169d2e712e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "VRx"
+		(at 155.5 118.5 0)
+		(layer "F.SilkS")
+		(uuid "441610bd-9560-4d86-a689-aeede0bfbdee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "VRy"
+		(at 155.5 121 0)
+		(layer "F.SilkS")
+		(uuid "399fcccb-7cfb-4959-bd9c-328189d62d58")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SW"
+		(at 155.5 123.5 0)
+		(layer "F.SilkS")
+		(uuid "a751b68f-30b5-4465-8c2b-34e9e931e1ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Pitch/Roll"
 		(at 177 132.5 0)
 		(layer "F.SilkS")
