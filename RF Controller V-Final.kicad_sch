@@ -4005,6 +4005,10 @@
 		(uuid "2bafd997-4801-4794-a175-d518c830af15")
 	)
 	(no_connect
+		(at 40.64 39.37)
+		(uuid "322b6494-f3ed-4d02-8b73-a9d93d12a8f5")
+	)
+	(no_connect
 		(at 36.83 123.19)
 		(uuid "34bffe0d-ea0d-4bc6-8dee-db5ac4bb1ae1")
 	)
@@ -4067,10 +4071,6 @@
 	(no_connect
 		(at 36.83 120.65)
 		(uuid "87e7fc18-5763-4de9-bec8-56a71709a0bd")
-	)
-	(no_connect
-		(at 38.1 34.29)
-		(uuid "90177460-ada6-4226-93b5-661d0a76801d")
 	)
 	(no_connect
 		(at 92.71 123.19)
@@ -5059,7 +5059,7 @@
 		(uuid "fc29ff4e-ea85-484a-95a2-4954a36334ab")
 	)
 	(label "SW_OUT"
-		(at 48.26 36.83 0)
+		(at 50.8 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5398,16 +5398,6 @@
 		)
 		(uuid "95f87bef-05c1-4198-ac97-f2f195d3fcc2")
 	)
-	(label "VBAT"
-		(at 38.1 39.37 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "9816a0e0-5e0c-4a10-9625-4ba4d14d6165")
-	)
 	(label "3.3V_OUT"
 		(at 228.6 29.21 180)
 		(effects
@@ -5677,6 +5667,16 @@
 			(justify right bottom)
 		)
 		(uuid "f27335f0-6bb5-4b0b-b7eb-b8cbd4334d0c")
+	)
+	(label "VBAT"
+		(at 40.64 34.29 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fcbd523e-73b7-4695-bf9d-8a4124205f60")
 	)
 	(symbol
 		(lib_id "JOYY:_1")
@@ -9299,7 +9299,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 43.18 36.83 180)
+		(at 45.72 36.83 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9309,7 +9309,7 @@
 		(dnp no)
 		(uuid "ba7891f1-d7fb-4ce1-baa9-a959d0c1fc56")
 		(property "Reference" "SW1"
-			(at 42.418 28.448 0)
+			(at 44.958 29.464 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9319,7 +9319,7 @@
 			)
 		)
 		(property "Value" "EG1218"
-			(at 42.926 31.496 0)
+			(at 45.466 31.496 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9329,7 +9329,7 @@
 			)
 		)
 		(property "Footprint" "V2Power:SW_ES_EG1218"
-			(at 43.18 36.83 0)
+			(at 45.72 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9340,7 +9340,7 @@
 			)
 		)
 		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/EG1218.pdf"
-			(at 43.18 36.83 0)
+			(at 45.72 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9351,7 +9351,7 @@
 			)
 		)
 		(property "Description" "E-Switch EG1218 compact SPDT slide switch, 200mA at 30VDC; pin 1 is BAT+, pin 2 (COM) is BAT_SW, and pin 3 is explicitly unused"
-			(at 43.18 36.83 0)
+			(at 45.72 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
