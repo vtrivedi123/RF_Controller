@@ -3566,7 +3566,7 @@
 		(descr "Aluminum Electrolytic Capacitors Low Impedance +105 °C, body x6.3x5.5mm, https://www.we-online.com/en/components/products/WCAP-ASLI#/articles/WCAP_ASLI_SIZE_6_3")
 		(tags "SMT")
 		(property "Reference" "C2"
-			(at 0.5 4.2 90)
+			(at 0.5 4.4 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "fe379851-69f3-4f22-9eb3-3b1409312404")
