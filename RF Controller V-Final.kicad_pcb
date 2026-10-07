@@ -7725,7 +7725,7 @@
 		)
 	)
 	(gr_text "Throttle/Yaw"
-		(at 110.5 132.5 0)
+		(at 108 133 0)
 		(layer "F.SilkS")
 		(uuid "263b27af-dc42-4651-8524-06c040fbbf18")
 		(effects
@@ -7857,7 +7857,7 @@
 		)
 	)
 	(gr_text "Pitch/Roll"
-		(at 177 132.5 0)
+		(at 181 133 0)
 		(layer "F.SilkS")
 		(uuid "b428e4ea-43fd-424e-8487-cdcf16236502")
 		(effects
