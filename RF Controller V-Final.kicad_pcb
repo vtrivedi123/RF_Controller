@@ -7736,18 +7736,6 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "VRx"
-		(at 137.5 118.5 0)
-		(layer "F.SilkS")
-		(uuid "fbc0428b-fcfd-4638-8187-f442935a7d4e")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.1)
-			)
-			(justify left bottom)
-		)
-	)
 	(gr_text "GND"
 		(at 137.5 123.5 0)
 		(layer "F.SilkS")
@@ -7764,6 +7752,18 @@
 		(at 138 116 0)
 		(layer "F.SilkS")
 		(uuid "9720ed84-bfb3-4b1c-bf9b-12699033a032")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "VRx"
+		(at 138 118.5 0)
+		(layer "F.SilkS")
+		(uuid "fbc0428b-fcfd-4638-8187-f442935a7d4e")
 		(effects
 			(font
 				(size 1 1)
@@ -7797,7 +7797,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 155.5 113.5 0)
+		(at 156 113.5 0)
 		(layer "F.SilkS")
 		(uuid "562acab8-fe58-4606-8c1b-212cad2b8482")
 		(effects
@@ -7809,7 +7809,7 @@
 		)
 	)
 	(gr_text "5V"
-		(at 155.5 116 0)
+		(at 156 116 0)
 		(layer "F.SilkS")
 		(uuid "031c244b-446b-43d5-8168-00169d2e712e")
 		(effects
@@ -7821,7 +7821,7 @@
 		)
 	)
 	(gr_text "VRx"
-		(at 155.5 118.5 0)
+		(at 156 118.5 0)
 		(layer "F.SilkS")
 		(uuid "441610bd-9560-4d86-a689-aeede0bfbdee")
 		(effects
@@ -7833,7 +7833,7 @@
 		)
 	)
 	(gr_text "VRy"
-		(at 155.5 121 0)
+		(at 156 121 0)
 		(layer "F.SilkS")
 		(uuid "399fcccb-7cfb-4959-bd9c-328189d62d58")
 		(effects
@@ -7845,7 +7845,7 @@
 		)
 	)
 	(gr_text "SW"
-		(at 155.5 123.5 0)
+		(at 156 123.5 0)
 		(layer "F.SilkS")
 		(uuid "a751b68f-30b5-4465-8c2b-34e9e931e1ff")
 		(effects
@@ -7860,6 +7860,30 @@
 		(at 177 132.5 0)
 		(layer "F.SilkS")
 		(uuid "b428e4ea-43fd-424e-8487-cdcf16236502")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "VBAT"
+		(at 83.5 78.8 90)
+		(layer "F.SilkS")
+		(uuid "8bc67942-737a-40f1-ba4a-a68391c54b64")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 83.5 83.2 90)
+		(layer "F.SilkS")
+		(uuid "26347783-8264-4165-8109-2f2084d33554")
 		(effects
 			(font
 				(size 1 1)
