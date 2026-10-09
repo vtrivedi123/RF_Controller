@@ -410,16 +410,22 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 0 0 180)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "007c4336-a185-4a6b-b11e-f6b781a0d6e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fbd658ec-0eb7-4c24-9168-018916990816")
 		(sheetname "/")
 		(sheetfile "RF Controller V-Final.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -463,6 +469,17 @@
 			(fill no)
 			(layer "F.Fab")
 			(uuid "f40435df-a13f-4465-a207-9eff0beedac7")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(uuid "d5777090-e756-4d1d-bff8-5c6fcb884702")
+			(effects
+				(font
+					(size 0.5 0.5)
+					(thickness 0.08)
+				)
+			)
 		)
 		(pad "1" smd roundrect
 			(at -1 0 180)
@@ -2611,16 +2628,22 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 0 0 90)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "0f5bc49c-b744-4afa-adbe-c9b3fd73ea74")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4c64b3cb-52c2-4198-84c7-4b2b22b12744")
 		(sheetname "/")
 		(sheetfile "RF Controller V-Final.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
