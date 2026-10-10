@@ -9628,7 +9628,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "1u"
 			(at 83.566 94.742 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10980,7 +10980,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "1u"
 			(at 92.456 68.072 0)
 			(show_name no)
 			(do_not_autoplace no)
