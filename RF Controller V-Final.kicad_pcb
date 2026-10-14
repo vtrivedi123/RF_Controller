@@ -7733,8 +7733,8 @@
 		(uuid "8982a8b1-00c1-4d1c-80b6-d34315f40e73")
 	)
 	(gr_line
-		(start 180.75 132.5)
-		(end 181.25 132)
+		(start 180.25 132.5)
+		(end 180.75 132)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -7743,8 +7743,8 @@
 		(uuid "587949d9-bc3a-4e4e-b1b4-e3de7936a34e")
 	)
 	(gr_line
-		(start 180.75 132.5)
-		(end 188.25 132.5)
+		(start 180.25 132.5)
+		(end 187.75 132.5)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -7753,8 +7753,8 @@
 		(uuid "6e8d8af4-6e0b-4fbb-8d2a-48d42d5e4373")
 	)
 	(gr_line
-		(start 181.25 133)
-		(end 180.75 132.5)
+		(start 180.75 133)
+		(end 180.25 132.5)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -7763,8 +7763,8 @@
 		(uuid "c7b9ebef-7d41-4ab5-8d79-e5fc372f91a7")
 	)
 	(gr_line
-		(start 187.75 132)
-		(end 188.25 132.5)
+		(start 187.25 132)
+		(end 187.75 132.5)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -7773,8 +7773,8 @@
 		(uuid "d46fcfc8-0795-40ad-a9b1-cb4620cf866e")
 	)
 	(gr_line
-		(start 188.25 132.5)
-		(end 187.75 133)
+		(start 187.75 132.5)
+		(end 187.25 133)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -8084,7 +8084,7 @@
 		)
 	)
 	(gr_text "Roll"
-		(at 183 134.5 0)
+		(at 182.5 134.5 0)
 		(layer "F.SilkS")
 		(uuid "50ca1417-b028-4184-aef7-68042b2fa336")
 		(effects
